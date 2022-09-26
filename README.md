@@ -4,10 +4,10 @@ I'm Alan, a student of computer science 💻
 I'm working at Bubbe Technology at a analyst 📝
 I'm learning Java and Python 📚
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/alanmaclan">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alanmaclan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmaclan&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanmaclan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmaclan&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
