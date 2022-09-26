@@ -1,10 +1,10 @@
 ## Hello 👋🏻! 
 
-I'm Alan, a student of computer science 💻
-I'm working at Bubbe Technology at a analyst 📝
-I'm learning Java and Python 📚
+* I'm Alan, a student of computer science 💻
+* I'm working at Bubbe Technology at a analyst 📝
+* I'm learning Java and Python 📚
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/alanmaclan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanmaclan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmaclan&layout=compact&langs_count=7&theme=dark"/>
