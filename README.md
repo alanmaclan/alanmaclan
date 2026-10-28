@@ -1,7 +1,6 @@
 ## Hello 👋🏻
 
-* I'm Alan, a student of computer science 💻
-* I'm working at [Bubbe Technology](https://www.bubbe.com.br/) at a analyst 📝
+* I'm Alan, working at [Bubbe Technology](https://www.bubbe.com.br/) at a analyst 📝
 * I'm learning Java and Python 📚
 
 ##
