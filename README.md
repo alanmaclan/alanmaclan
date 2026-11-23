@@ -1,7 +1,6 @@
 ## Hello 👋🏻
 
 * I'm Alan, working at [Bubbe Technology](https://www.bubbe.com.br/) at a analyst 📝
-* 
 
 ##
   <div style="display: inline_block"><br>
