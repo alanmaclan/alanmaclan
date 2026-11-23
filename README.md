@@ -1,7 +1,7 @@
 ## Hello 👋🏻
 
 * I'm Alan, working at [Bubbe Technology](https://www.bubbe.com.br/) at a analyst 📝
-* I'm learning Java and Python 📚
+* 
 
 ##
   <div style="display: inline_block"><br>
